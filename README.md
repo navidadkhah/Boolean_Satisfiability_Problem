@@ -6,11 +6,21 @@ Due to the flowchart, we randomly get an instruction and add to it some noise. i
 <p align="center">
 <img src="https://github.com/user-attachments/assets/4f0e34ef-bf41-41f5-8d80-147918cd400a" height="400">
 </p>
+We can plot the results and see how many of parentheses are True:<br>
+<p align="center">
+<img alt="Plot" src="https://github.com/user-attachments/assets/fc1f0ff2-5ce4-40cd-bdf9-a4be7904eaba" width="500">
+</p>
 
-# Generic Algorithm
+
+# Genetic Algorithm
 You can see how the cross-over, mutation, parent choice, and making children procedures are implemented.
-
-
+<p align="center">
+<img alt="Plot" src="https://github.com/user-attachments/assets/95ab703c-ea2c-44f1-8915-f01bcc4f292f" width="400">
+</p>
+We can plot the results and see how many of parentheses are True:<br>
+<p align="center">
+<img alt="Plot" src="https://github.com/user-attachments/assets/b448b6c2-2d17-4b41-b419-02902d05d168" width="300">
+</p>
 
 
 # DataSet
